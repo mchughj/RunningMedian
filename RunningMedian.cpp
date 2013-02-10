@@ -9,7 +9,8 @@
 // 0.1.01 - 2011-02-22 added remarks from CodingBadly
 // 0.1.02 - 2012-03-15
 // 0.1.03 - 2013-02-19 simplistic changes that clarify what is happening within the code
-//                     for readability and understandability.
+//                     for readability and understandability.  Some additional changes to
+//                     optimize for memory usage.
 //
 // Released to the public domain
 //
